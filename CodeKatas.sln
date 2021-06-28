@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeKatas", "CodeKatas\CodeKatas.csproj", "{5236BF03-F585-4506-B3A5-F8C2A05110D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeKatas", "src\CodeKatas\CodeKatas.csproj", "{5236BF03-F585-4506-B3A5-F8C2A05110D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeKatasTests", "CodeKatasTests\CodeKatasTests.csproj", "{AA0D24DF-95EB-475C-805D-16A16C9FF364}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeKatasTests", "tests\CodeKatasTests\CodeKatasTests.csproj", "{AA0D24DF-95EB-475C-805D-16A16C9FF364}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

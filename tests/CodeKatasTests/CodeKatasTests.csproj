@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CodeKatas\CodeKatas.csproj" />
+    <ProjectReference Include="..\..\src\CodeKatas\CodeKatas.csproj" />
   </ItemGroup>
 
 </Project>
